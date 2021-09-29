@@ -1,0 +1,1 @@
+python services/$1.py
